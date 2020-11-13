@@ -1,4 +1,4 @@
-tensorflow==1.12   # CPU Version of TensorFlow
+tensorflow==2.3.1   # CPU Version of TensorFlow
 # tensorflow-gpu==1.12  # GPU version of TensorFlow
 tensorflow_hub
 sentencepiece
